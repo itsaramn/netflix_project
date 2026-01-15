@@ -55,37 +55,31 @@ The following questions were explored:
 
 ---
 
-## Exploratory Analysis
-Matplotlib was used during exploration to quickly validate trends and distributions before building final reports.
+## 🔍 Exploratory Analysis
+Matplotlib was used during the exploratory phase to quickly validate trends, distributions, and data quality before building final reports and dashboards.
 
----
-
-## Excel Work
+## 📊 Excel-Based Analysis
 Excel was used to:
-- build pivot tables for key summaries
-- normalize country data using Power Query
-- validate Python results
-- create quick visual checks for trends and distributions
+- Build pivot tables for key summary metrics
+- Normalize country data using Power Query
+- Validate results generated in Python
+- Perform quick visual checks for trends and distributions
 
----
+## 📈 Power BI Dashboard
+An interactive Power BI dashboard was developed to present insights, with slicers for:
+- Year
+- Country
+- Content type (Movie / TV Show)
+- Content age category (Recent / Old / Vintage)
 
-## Power BI Dashboard
-A Power BI dashboard was created to present the analysis in an interactive way, with filters for:
-- year
-- country
-- content type
-- content age category
+The dashboard emphasizes clarity, interpretability, and analytical value over decorative visuals.
 
-The focus was on clarity and usability rather than decorative visuals.
-
----
-
-## Key Takeaways
+## 📌 Key Takeaways
 - Content production increased sharply after 2015
 - TV shows have grown faster than movies in recent years
-- The US and India are the largest content producers
-- Most content targets mature audiences
-- Recent content makes up the majority of the catalog
+- The United States and India are the largest content-producing countries
+- Most content targets mature audience ratings
+- Recent content accounts for the majority of the catalog
 
 ---
 
